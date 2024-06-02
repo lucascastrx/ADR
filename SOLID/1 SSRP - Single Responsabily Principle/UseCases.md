@@ -10,6 +10,8 @@ Esse princípio declara que uma classe deve ser especializada em um único assun
 
 ### Titulo
 
-![alt text](screens\transaction.png)
+![alt text](screens/transaction.png)
 
+![alt text](screens/transactionModel.png)
 
+Por conta do uso da Arquitetura Hexagonal, que preza pelo desacomplamento do código do domínio, isolando-o das demais dependências da aplicação temos o cenário acima
